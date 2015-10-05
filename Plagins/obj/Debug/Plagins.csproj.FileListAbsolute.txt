@@ -1,0 +1,4 @@
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Plagins\bin\Debug\Plagins.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Plagins\bin\Debug\Plagins.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Plagins\obj\Debug\Plagins.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Plagins\obj\Debug\Plagins.pdb

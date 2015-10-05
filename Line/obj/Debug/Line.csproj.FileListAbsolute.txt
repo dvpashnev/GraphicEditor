@@ -1,0 +1,15 @@
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor\Line\bin\Debug\Line.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor\Line\bin\Debug\Line.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor\Line\bin\Debug\IPlagin.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor\Line\bin\Debug\Shape.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor\Line\bin\Debug\IPlagin.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor\Line\bin\Debug\Shape.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor\Line\obj\Debug\Line.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor\Line\obj\Debug\Line.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor\Line\obj\Debug\Line.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Line\bin\Debug\Line.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Line\bin\Debug\Line.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Line\bin\Debug\Plagins.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Line\bin\Debug\Plagins.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Line\obj\Debug\Line.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Line\obj\Debug\Line.pdb

@@ -1,0 +1,5 @@
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Projects\bin\Debug\Projects.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Projects\bin\Debug\Projects.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Projects\obj\Debug\Projects.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Projects\obj\Debug\Projects.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Projects\obj\Debug\Projects.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Text\bin\Debug\Text.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Text\bin\Debug\Text.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Text\bin\Debug\Plagins.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Text\bin\Debug\Plagins.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Text\obj\Debug\Text.dll
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Text\obj\Debug\Text.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\SP\GraphicEditor1\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
